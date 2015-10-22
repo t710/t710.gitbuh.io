@@ -1,0 +1,8 @@
+input.form-control:focus, textarea.form-control:focus, input.otherinput:focus {
+  /*border-color: rgba(229, 103, 23, 0.8) !important;
+    box-shadow: 0 1px 1px rgba(229, 103, 23, 0.075) inset, 0 0 8px rgba(229, 103, 23, 0.6) !important;
+    outline: 0 none !important;*/
+  border-color: #CCC !important;
+  -webkit-box-shadow: 0 0px 0px transparent inset, 0 0 0px transparent !important;
+          box-shadow: 0 0px 0px transparent inset, 0 0 0px transparent !important;
+  outline: 0 none !important; }
